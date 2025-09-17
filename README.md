@@ -1,4 +1,4 @@
-#  extractor-informasi-cerdas-v2
+#  Info extract 
 # 🔎 Extractor Informasi Cerdas
 
 Aplikasi web serbaguna yang dibangun dengan Streamlit untuk menganalisis teks tidak terstruktur dan mengekstrak informasi penting secara otomatis. Aplikasi ini menggunakan teknik Natural Language Processing (NLP) untuk mengidentifikasi entitas kunci dan hubungannya, lalu menyajikannya dalam format tabel yang mudah dipahami.
@@ -8,7 +8,7 @@ Aplikasi web serbaguna yang dibangun dengan Streamlit untuk menganalisis teks ti
 ## 🚀 Demo Aplikasi Langsung
 
 Anda bisa mencoba aplikasi ini secara langsung di:
-**[➡️ Live Demo Aplikasi](https://[NAMA-APP-STREAMLIT-ANDA].streamlit.app/)**
+**[➡️ Live Demo Aplikasi](https://information-extraction-ner-n-gram.streamlit.app/)**
 
 ---
 
@@ -78,3 +78,14 @@ Jika Anda ingin menjalankan aplikasi ini di komputer Anda sendiri, ikuti langkah
     ```
 
 Aplikasi akan terbuka secara otomatis di browser Anda.
+
+
+### Our Reference
+1. [Named Entity Recognition(NER) using Conditional Random Fields (CRFs)in NLP](https://medium.com/data-science-in-your-pocket/named-entity-recognition-ner-using-conditional-random-fields-in-nlp-3660df22e95c)
+2. [Information Extraction](https://medium.com/content-understanding/information-extraction-ab50b0fbf18d)
+3. [N-gram language models](https://medium.com/mti-technology/n-gram-language-model-b7c2fc322799)
+
+
+
+[Our Post](https://agengputrapratama.blogspot.com/2025/09/dari-teks-berantakan-menjadi-wawasan.html)
+[Youtube](Comingsoon)
