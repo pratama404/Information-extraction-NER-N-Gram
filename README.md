@@ -3,7 +3,7 @@
 
 Aplikasi web serbaguna yang dibangun dengan Streamlit untuk menganalisis teks tidak terstruktur dan mengekstrak informasi penting secara otomatis. Aplikasi ini menggunakan teknik Natural Language Processing (NLP) untuk mengidentifikasi entitas kunci dan hubungannya, lalu menyajikannya dalam format tabel yang mudah dipahami.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[NAMA-APP-STREAMLIT-ANDA].streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/user/pratama404)
 
 ## 🚀 Demo Aplikasi Langsung
 
@@ -14,7 +14,7 @@ Anda bisa mencoba aplikasi ini secara langsung di:
 
 ## 📸 Tampilan Aplikasi
 
-![Screenshot Aplikasi](screenshot.png)
+![Screenshot Aplikasi](image.png)
 
 ---
 
@@ -49,7 +49,7 @@ Anda bisa mencoba aplikasi ini secara langsung di:
 
 Proses awal analisis, pembersihan data, dan eksplorasi model dilakukan dalam notebook Google Colab. Anda bisa mengaksesnya melalui tautan di bawah ini untuk melihat detail prosesnya.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_COLAB_ANDA_YANG_SUDAH_DISALIN])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k2MA7WQoEkaFRGlivBpUFyURLBKNuqoO?usp=sharing)
 
 ---
 
@@ -59,12 +59,12 @@ Jika Anda ingin menjalankan aplikasi ini di komputer Anda sendiri, ikuti langkah
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[NAMA_USER_ANDA]/[NAMA_REPO_ANDA].git
+    git clone https://github.com/pratama404/Information-extraction-NER-N-Gram.git
     ```
 
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd [NAMA_REPO_ANDA]
+    cd Information-extraction-NER-N-Gram
     ```
 
 3.  **Install semua library yang dibutuhkan:**
